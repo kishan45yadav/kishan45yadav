@@ -22,7 +22,7 @@ I specialize in end-to-end data analysis — from data cleaning and SQL querying
 | Project | Tools | Description |
 |---|---|---|
 | [Car Sales Analysis](https://github.com/kishan45yadav/car_sales_analysis_sql_power_bi) | SQL, Power BI | Sales trends and performance dashboard |
-| [Reliance Stock Dashboard](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard) | Python, Power BI | Stock performance analytics for Reliance Industries |
+| [Reliance Stock Dashboard](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard) | Python, Power BI ,pandas ,seaborn,Facebook-Prophet,NSE-Reliance.us| Stock performance analytics for Reliance Industries |
 | [HR Attrition Analytics](https://github.com/kishan45yadav/HR-attrition-analytics) | Python, Jupyter , Scikit Learn | Employee attrition patterns and predictions |
 | [Auto Loan Securitisation](https://github.com/kishan45yadav/auto-loan-securitisation-analytics) | Excel , SQL , Power BI | Financial analytics on auto loan data |
 
