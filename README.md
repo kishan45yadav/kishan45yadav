@@ -21,6 +21,7 @@ I specialize in end-to-end data analysis — from data cleaning and SQL querying
 
 | Project | Tools | Description |
 |---|---|---|
+| [Indian Startup Funding Analysis](https://github.com/kishan45yadav/startup-funding-analysis) | Excel, Power Query, Power BI | Cleaned and analyzed 3,000+ startup funding deals (2015–2020); built a two-page investor and funding-trend dashboard from a dataset with inconsistent cities, unstructured industry labels, and unstandardized amounts |
 | [Car Sales Analysis](https://github.com/kishan45yadav/car_sales_analysis_sql_power_bi) | SQL, Power BI | Sales trends and performance dashboard |
 | [Reliance Stock Dashboard](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard) | Python, Power BI ,pandas ,seaborn,Facebook-Prophet,NSE-Reliance.us| Stock performance analytics for Reliance Industries |
 | [HR Attrition Analytics](https://github.com/kishan45yadav/HR-attrition-analytics) | Python, Jupyter , Scikit Learn | Employee attrition patterns and predictions |
